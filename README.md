@@ -9,7 +9,7 @@ A React JS/ Typescript & Material UI App for the frontend that acts as a lookup 
 - Material UI
 
 
-# Action Shots
+# Action Shot
 
 ### Match Page
 <img width="960" alt="StartGame" src="https://github.com/ArthurAnyanjo/Sports-Quiz/assets/30736788/271f1e2d-3190-4360-b90e-ef1f288a388c">
